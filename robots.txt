@@ -1,1 +1,2 @@
-Sitemap: https://www.franvergara66.com/sitemap.xml
+User-agent: *
+Sitemap: https://franvergara66.com/sitemap.xml
