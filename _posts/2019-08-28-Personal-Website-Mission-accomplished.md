@@ -8,11 +8,12 @@ tags:
   - Minimal Mistakes Jekyll
 ---
 
-As an undergrad, I learned some basic HTML and CSS and created a simple webpage in a class project. I haven't thought back then that I would have a fully functional personal website one day with all the modern features like social sharing, tagging, related posts and so on. 
+
+I created a simple webpage as an undergrad in a class project using HTML and CSS. Those days, I never imagined I would have my own personal website one day with social sharing, tagging, related posts, etc.
+
+[Michael Rose's Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/about/) responsive Jekyll theme made all this possible! The minimalistic design and customizable features were great! A lot of examples are included in the documentation. Using Markdown for writing HTML makes blogging a lot easier.
 {: .text-justify}
 
-All this became possible thanks to [Michael Rose and his Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/about/) responsive [Jekyll](https://jekyllrb.com) theme! I really loved the minimalistic design and the ability to customize a lot of features! The theme is also very well documented and has lots of examples. Using Markdown for writing HTML makes blogging a lot easier. 
-{: .text-justify}
 
 Another killer feature is that you can host your website on [GitHub pages](https://pages.github.com) for free! 
 

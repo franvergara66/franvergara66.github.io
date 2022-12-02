@@ -12,7 +12,7 @@ date: February 21, 2022
 ---
 
 <figure style="width: 30%" class="align-right">
-  <img src="/assets/images/barcelona.jpg" alt="">
+  <img src="/assets/images/paris.jpg" alt="">
 </figure>
 
 Please feel free to get in touch via [email](mailto:fvergara.sand@gmail.com).  
