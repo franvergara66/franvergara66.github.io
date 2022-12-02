@@ -9,7 +9,7 @@ header:
 classes: wide
 ---
 
-### Amazon DynamoDB for Serverless Architectures | AWS training and certification [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/kbosko_AWS_DynamoDB_certificate.pdf)
+### Amazon DynamoDB for Serverless Architectures | AWS training and certification [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/fvergara_AWS_DynamoDB_certificate.pdf)
 - How Amazon DynamoDB Works
 - Operating Amazon DynamoDB
 - Design Considerations
@@ -21,7 +21,7 @@ Projects:
 
 ----------------------------------------
 
-### AWS Lambda Foundations| AWS training and certification [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/kbosko_AWS_Lambda_certificate.pdf)
+### AWS Lambda Foundations| AWS training and certification [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/fvergara66_AWS_Lambda_certificate.pdf)
 - AWS Lambda Function Permissions
 - How Lambda Works
 - Authoring Lambda Functions
