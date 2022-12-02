@@ -8,7 +8,7 @@ tags:
 
 date: June 4, 2020
 header:
-  teaser: /assets/images/thumbnails/joel-filipe-thumb-400.jpg
+  teaser: /assets/images/thumbnails/generic-thumb-400.jpg
 excerpt: "Is Digital Marketing Nanodegree by Udacity worth it?"
 ---
 {% include figure image_path="/assets/images/posts/udacity-digital-marketing-nanodegree.jpg" alt="Udacity Digital Marketing Nanodegree Certificate" %}

@@ -2,7 +2,7 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Home"
+  - title: "Posts"
     url: /index.html
   - title: "CV"
     url: /about/

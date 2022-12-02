@@ -1,7 +1,95 @@
--- robots.txt
--- CNAME
--- domain github
--- Rakefile
+-- Create a Rakefile
 -- ads.txt
--- CLOUDFLARE setup CND, DNS
--- 
+-- Google Analytics
+--  tag archive jekyll
+-- solve comments issue
+
+https://jsoncrack.com/editor
+
+Amazon Redshift (DWH), BigQuery, Apache Kafka (pipelines), Apache Spark (Big Data), Amazon Athena (SQL)
+
+ Looker
+
+Dbt Data Modeling-Explore
+
+
+Power BI
+
+
+ETL AWS Glue
+
+
+
+Jupyter Notebook allows users to compile all aspects of a data project in one place making it easier to show the entire process of a project to your intended audience.
+
+Responsible for the design and implementation of the data model and pipeline to obtain the MF4 files of approximately 30,000 IoT devices in order to analyze and find flaws in the performance of the scooters.
+
+
+
+Marketing Analysis
+In a recent project we used A/B testing to compare two versions of the same app page to see which of the two versions is more efficient. We randomly show both versions to different users of the app, so that some of them will see version A and the rest will see version B.
+
+Once the different versions were shown to the users, we collected all the information and put it in a Datawarehouse in Azure Synapse which is the equivalent of Looker but from Microsoft, the information was obtained from the users through a tool that we had integrated in our system called mixpanel, Mixpanel is a business analytics service to track user interactions.
+
+With this analysis we were able to compare which version of the app generated more clicks, subscriptions, sales. and then send that to the production and marketing area to integrate the final version into their final marketing strategy.
+
+
+
+What You Bring To The Table
+3+ years previous experience as a data engineer, or in a similar role
+Good technical expertise with data models, data mining, and segmentation techniques
+Experience with AWS and the surrounding ecosystem of services and tools (S3, Athena, AWS Glue)
+Advanced SQL knowledge and experience with Python, Spark, Airflow, Databricks and Quicksight (or Tableau/PowerBI)
+Previous experience implementing and maintaining data infrastructure
+Ability and willingness to work independently to bring our data intelligence strategy into action
+Excellent communication and stakeholder management skills
+Excellent English language skills
+ 
+
+What are the Different Types of Image Segmentation Techniques?
+Thresholding Segmentation.
+Edge-Based Segmentation.
+Region-Based Segmentation.
+Watershed Segmentation.
+Clustering-Based Segmentation Algorithms.
+Neural Networks for Segmentation.
+ testing hypotheses, setting up A/B tests 
+
+
+Have knowledge of various patterns, anti-patterns, and techniques to ensure that Agile principles and practices can be applied effectively to this organisation.
+
+
+Responsable del diseno e implementacion del modelo de datos y pipeline para obtener los archivos MF4 de aproximadamente 30 mil dispositivos IoT mediante para hacer analisis y encontrar fallas en el rendimiento de los scooters.
+
+•  Led a team of software engineers in the development of an electric scooter software system, which increased company productivity by 25%.
+•  Implemented a new software development process that shortened development time by 30%.
+•  Developed an electric scooter control system that increased range by 20%.
+•  Led data analytics team that implemented predictive maintenance algorithms that improved equipment uptime by 15%.
+•  Developed new data architecture that improved data processing speeds by 30%.
+•  Created data visualization dashboards that helped improve decision making by senior management by 20%.
+•  Was responsible for training other members of the organization in data analytics techniques, resulting in a more data-driven culture.
+•  Managed a team of 6 data analysts and was responsible for their career development.
+
+
+I am lecturer in Data Mining & Data Warehousing at University of Applied Science Vienna (FH Wien) and TEENS TEST MUrReteTe 
+Monitoring Netherlands), a worldwide unique joint venture of Dutch banks to battle money laundering and terrorism financing. Previously, | was Expert ML Engineer at bol.com and Head of Al at craftworks, a Software and Al consultancy, where | conceptualized, 
+designed and implemented Machine/Deep Learning solutions focusing on Industrial Artificial Intelligence.
+
+
+
+My main area of focus is the deployment of Python or  Pyspark machine learning and deep learning models,  especially in Azure Cloud and Azure Databricks  environment. 
+
+
+
+During my work, | have gained significant experience  in various fields such as (big) data analysis and visualization, machine learning (scikit-learn,  pyspark.ml), programming (Python, Spark) and 
+problem solving. I am very interested in any work  related to these fields. | also like very much team  working as well as to work in an international environment.
+I am a seasoned Data Professional with experience in Data Science, Data/ML/MLOps Engineering fields. I 
+am obsessed with building out Data Capabilities at scale and helping organisations implement their Data 
+Driven visions. 
+
+I believe that a strong Self Service Data and ML Platform is key for organisations to be successful in 
+scaling out their Data efforts. To achieve it there is both a need of Cultural and Technical transformation.
+
+
+
+

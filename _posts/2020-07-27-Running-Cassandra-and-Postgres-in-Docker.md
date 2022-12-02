@@ -11,7 +11,7 @@ tags:
 
 date: July 27, 2020
 header:
-  teaser: /assets/images/thumbnails/joel-filipe-thumb-400.jpg
+  teaser: /assets/images/thumbnails/generic-thumb-400.jpg
 excerpt: "How to set up the environment for Udacity Data Engineering Nanodegree on your local machine"
 ---
 
