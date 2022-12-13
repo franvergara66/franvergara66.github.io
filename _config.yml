@@ -35,6 +35,9 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+read_time                : true
+    
+
 
 comments:
   provider: "utterances"
@@ -275,11 +278,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
       related: true
       mathjax: true
+      read_time: true
+      words_per_minute: 200
 
   # _portfolio
   - scope:

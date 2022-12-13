@@ -3,10 +3,25 @@
 -- Google Analytics
 --  tag archive jekyll
 -- solve comments issue
+-- FIX words per minute and reading time
+
 
 https://jsoncrack.com/editor
 
 Amazon Redshift (DWH), BigQuery, Apache Kafka (pipelines), Apache Spark (Big Data), Amazon Athena (SQL)
+
+Working as a consultant for one of biggest multibrand-automative companies in Germany. ◦ Using Terraform, Scala Spark and PySpark to create etl processes.
+Focused on optimised ETL processes, and job orchestration with high code quality. 
+◦ Using SQL frequently on an advanced level for creating business value.
+◦ Using AWS Redshift for Data Warehousing.
+◦ Using AWS Athena for data validation before going live with Redshfit Spectrum.
+◦ Used AWS Glue Jobs for Batch Processing with Apache Spark. in both Python and Scala.
+◦ Using AWS Lambda Function with API Gateway for creating APIs.
+◦ Using AWS Step Functions and Glue Workflows to orchestrate jobs.
+◦ Using and Implementing Terraform modules to use infrastructure as code as a template.
+◦ Implementing Github CI/CD, unit and integration testing.
+
+
 
  Looker
 

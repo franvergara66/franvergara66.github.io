@@ -1,10 +1,17 @@
 ---
+layout: single
+permalink: /web-toolbox/
 title: "Web Toolbox"
-permalink: /web-toolbox/ 
-date: 2021-02-28T00:00-00:00
-last_modified_at: 2021-02-28T00:00-00:00
-excerpt: A collection of SAAS web tools useful during development.  
+sitemap: false
+author_profile: false
+excerpt: A curated list of web apps that I have found useful. 
+header:
+    overlay_image: /assets/images/header.jpg
+    caption: "“The world is one big data problem.” — Andrew McAfee"
 classes: wide
+date: 2020-09-27T15:45-00:00
+toc: true
+toc_sticky: true
 ---
 
 This is a curation of web apps that I have found useful.
