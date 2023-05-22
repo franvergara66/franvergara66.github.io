@@ -8,7 +8,6 @@ header:
     overlay_image: /assets/images/header.jpg
     caption: "“The world is one big data problem.” — Andrew McAfee"
 classes: wide
-date: February 21, 2022
 ---
 
 <figure style="width: 30%" class="align-right">
@@ -19,22 +18,24 @@ date: February 21, 2022
 
 ## About Me   
 
-I am a Computer Scientist (Universidad Central de Venezuela), BI and Data Engineer/Consultant Scientist, working in consulting and support in all areas of BI: Data Science, ETL processes, Pipelines, Data Mining, Data Analysis, Data Governance, Data Quality and Machine Learning in multiple projects and companies.
 
-I have a background in Web Programming, but it's not something I'm passionate about, I prefer to work in application programming, Business Intelligence and Data.
+I am a Computer Scientist specializing in BI and Data Engineering/Consulting. My expertise encompasses various areas of BI, including Data Science, ETL processes, Pipelines, Data Mining, Data Analysis, Data Governance, Data Quality, and Machine Learning. I have experience working on multiple projects and collaborating with different companies.
 
-I’m passionate about Data Analytics and Data Science and few years ago discovered that I enjoy coding. Since Data Engineering is at the intersection of both Data Science and Software Engineering - both fields that I love - I decided to concentrate in Data Engineering.
+While I have a background in Web Programming, my true passion lies in application programming, Business Intelligence, and Data. I thoroughly enjoy Data Analytics and Data Science and have discovered a love for coding. Recognizing that Data Engineering combines both Data Science and Software Engineering, which are fields I am passionate about, I decided to focus on Data Engineering.
 
-I have strong programming skills in Python and currently learning AWS, Spark, Hadoop and MapReduce. I have solid understanding of Machine Learning and Databases (Oracle, MongoDB, Redis). My previous school [projects](/portfolio) also involved Node.js, Bootstrap, Java, C++.
+My programming skills are strong in Python, and I am currently expanding my knowledge in AWS, .Net, Angular, Spark, Hadoop, and MapReduce. I possess a solid understanding of Machine Learning and have worked with databases such as Oracle, MongoDB, and Redis. Additionally, I have completed  [school projects](/portfolio) involving Node.js, Bootstrap, Java, and C++.
 
-Currently, I work as a Software Technical Lead at [Govecs](https://www.govecsgroup.com/en/) where I built production-level digital products and solutions for electromobility.
+Currently, I hold the position of Software Technical Lead at [TVS Motor Company](https://www.tvsmotor.com/), a renowned global 2-wheeler company. In this role, I have developed production-level digital products and solutions for electromobility.
 
-I initially began my career as a Business Intelligence Consultant but transitioned to **Data Science** through rigorous [self-study](https://github.com/franvergara66/data-science-guide).
+Although I started my career as a Business Intelligence Consultant, I made a transition to Data Science through intensive self-study, which you can find documented in my [GitHub repository](https://github.com/franvergara66/data-science-guide).
 
 
 ## Interest
 
 > -   Data Engineering
+> -   IoT
+> -   Electromobilty
+> -   Sustainable energies
 > -   ETL process and Pipelines
 > -   Data Science
 > -   Machine Learning
@@ -46,9 +47,10 @@ I initially began my career as a Business Intelligence Consultant but transition
 
 
 ## Professional Experience
-
+> -   **Software Technical Lead - TVS Motor Company Ltd.**  
+>     Stuttgart, Germany (12.2022 - present)
 > -   **Software Technical Lead - Govecs AG**  
->     Stuttgart, Germany (01.2020 - present)
+>     Stuttgart, Germany (01.2020 - 12.2022)
 > -   **Lead Interconnection and Data Engineer - Claro Chile**  
 >     Santiago, Chile(01.2018 - 09.2019)
 > -   **Senior Data Mining Consultant - Telefónica Venezuela**  
@@ -89,6 +91,6 @@ You can download my CV from the following links [English](/assets/docs/resume-fv
 
 
 ## Get in touch  
-Please feel free to connect with me on [Twitter](https://twitter.com/sirfranvergara) or [LinkedIn](https://www.linkedin.com/in/fvergara-sand/).
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fvergara-sand/).
 
 

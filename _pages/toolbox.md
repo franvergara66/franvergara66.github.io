@@ -4,7 +4,7 @@ permalink: /toolbox/
 title: "Data Science Toolbox"
 sitemap: false
 author_profile: false
-excerpt: A curated list of libraries for all phases of the Data Engineering workflow 
+excerpt: A curated list of libraries for all phases of the Data Engineering workflow ˇ
 header:
     overlay_image: /assets/images/header.jpg
     caption: "“The world is one big data problem.” — Andrew McAfee"

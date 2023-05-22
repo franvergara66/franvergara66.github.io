@@ -144,17 +144,10 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fvergara-sand/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sirfranvergara"
- 
-  
-    - label: "Subscribe"
-      icon: "fas fa-fw fa-envelope"
-      url: "https://www.getrevue.co/profile/sirfranvergara"
+
     - label: "Support"
       icon: "fas fa-fw fa-mug-hot"
-      url: "https://www.getrevue.co/profile/sirfranvergara"
+      url: "https://www.buymeacoffee.com/franvergara66"
 
 
 # Reading Files

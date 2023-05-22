@@ -22,11 +22,11 @@
 #STEP 3
 
 # get base container (in our case it is ruby with version 2.5)
-FROM ruby:2.5
+FROM ruby:2.7.8
 
 # optional - update initial container
 #RUN gem update --system 
-
+RUN gem install bundler -v 2.4.13
 # configure bundle for ruby in this case frozen=1
 RUN bundle config --global frozen 1
 
@@ -38,6 +38,8 @@ COPY Gemfile Gemfile.lock minimal-mistakes-jekyll.gemspec ./
  
 # optional (if no VOLUME) - copy everything from your local directory into docker WORKDIR 
 # COPY . .
+
+RUN gem update --system
 
 # run ruby bundle setup
 RUN bundle install
