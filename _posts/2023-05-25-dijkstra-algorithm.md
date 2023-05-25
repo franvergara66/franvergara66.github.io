@@ -45,7 +45,7 @@ Dijkstra's algorithm has a wide range of applications in the real world, especia
 
 Below is a visual representation of Dijkstra's algorithm taken from Wikipedia to help understand its operation:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif)
 
 ### Python Implementation:
 
