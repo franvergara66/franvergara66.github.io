@@ -27,13 +27,32 @@ A Markov Chain is defined by a set of **states** and **transition probabilities*
 
 Let's consider a simple example of a weather model to illustrate the concept. Suppose we have three possible weather conditions: sunny, cloudy, and rainy. We can represent these states as S, C, and R, respectively. The transition matrix might look like this:
 
-|      | S   | C   | R   |
+|      | S  | C   | R   |
 |------|-----|-----|-----|
 | S    | 0.6 | 0.3 | 0.1 |
 | C    | 0.4 | 0.5 | 0.1 |
 | R    | 0.2 | 0.3 | 0.5 |
 
-In this matrix, each row represents the current state, and each column represents the next state. For example, the element in the first row and second column (0.3) denotes the probability of transitioning from a sunny day (S) to a cloudy day (C).
+In this matrix, each row represents the current state, and each column represents the next state. For example, the element in the first row and second column (0.3) denotes the probability of transitioning from a sunny day (S) to a cloudy day (C). This is how the graphical representation of the previous matrix would look like:
+
+<!-- 
+```mermaid
+graph TD;
+S((S)) -- 0.6 -- S((S))
+S((S)) -- 0.3 -- C((C))
+S((S)) -- 0.1 -- R((R))
+C((C)) -- 0.4 -- S((S))
+C((C)) -- 0.5 -- C((C))
+C((C)) -- 0.1 -- R((R))
+R((R)) -- 0.2 -- S((S))
+R((R)) -- 0.3 -- C((C))
+R((R)) -- 0.5 -- R((R))
+``` -->
+
+{% include figure image_path="/assets/images/posts/markov-graph.png" alt="Graph representation" %}
+
+---
+
 
 ## Real-Life Use Cases
 
@@ -61,11 +80,7 @@ And here's a graph representation of the weather model transition matrix:
 from matplotlib import pyplot as plt
 
 states = ['Sunny', 'Cloudy', 'Rainy']
-transition_matrix = [    [0.6, 0.3, 0.1],
-    [0.4, 0.5, 0.1],
-    [0.2, 0.3, 0.5]
-]
-
+transition_matrix = [ [0.6, 0.3, 0.1],[0.4, 0.5, 0.1],[0.2, 0.3, 0.5]]
 plt.figure(figsize=(6, 4))
 plt.imshow(transition_matrix, cmap='Blues')
 plt.title('Weather Model Transition Matrix')
@@ -75,6 +90,8 @@ plt.yticks(range(len(states)), states)
 plt.xlabel('Next State')
 plt.ylabel('Current State')
 plt.show()
+```
 
 This code snippet uses the matplotlib library to create a heatmap visualization of the transition matrix. The colors represent the probabilities of transitioning from one weather state to another.
 
+{% include figure image_path="/assets/images/posts/trinket_plot.png" alt="Heathmap" %}
