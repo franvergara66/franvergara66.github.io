@@ -15,8 +15,6 @@ header:
 
 # Understanding Markov Chains: Theory and Real-Life Use Cases
 
-![Markov Chains](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Markovkate_01.svg/640px-Markovkate_01.svg.png)
-
 Markov Chains, named after the Russian mathematician Andrey Markov, are powerful mathematical models used to study and analyze systems that exhibit probabilistic behavior. This blog post aims to provide a comprehensive understanding of Markov Chains, their theoretical foundations, and their real-life applications. Whether you're a curious learner or an aspiring data scientist, this article will guide you through the fascinating world of Markov Chains.
 
 ## Theory of Markov Chains
