@@ -1,3 +1,18 @@
+---
+title: "Understanding Markov Chains: Theory and Real-Life Use Cases"
+toc: true
+toc_label: "Content"
+tags:
+  - probabily
+  - marv
+  - commit
+  - software development
+date: May 26, 2023
+header:
+  teaser: /assets/images/thumbnails/generic-thumb-400.jpg
+  excerpt: "Markov Chains, are powerful mathematical models used to study and analyze systems that exhibit probabilistic behavior. "
+---
+
 # Understanding Markov Chains: Theory and Real-Life Use Cases
 
 ![Markov Chains](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Markovkate_01.svg/640px-Markovkate_01.svg.png)
