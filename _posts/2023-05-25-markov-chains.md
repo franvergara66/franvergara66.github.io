@@ -47,7 +47,11 @@ R((R)) -- 0.3 -- C((C))
 R((R)) -- 0.5 -- R((R))
 ``` -->
 
-{% include figure image_path="/assets/images/posts/markov-graph.png" alt="Graph representation" %}
+
+<figure style="width: 70%" class="align-center">
+  <img src="/assets/images/posts/markov-graph.png" alt="trinket_plot.png">
+</figure>
+
 
 ---
 
@@ -92,4 +96,7 @@ plt.show()
 
 This code snippet uses the matplotlib library to create a heatmap visualization of the transition matrix. The colors represent the probabilities of transitioning from one weather state to another.
 
-{% include figure image_path="/assets/images/posts/trinket_plot.png" alt="Heathmap" %}
+<figure style="width: 70%" class="align-center">
+  <img src="/assets/images/posts/trinket_plot.png" alt="trinket_plot.png">
+</figure>
+
